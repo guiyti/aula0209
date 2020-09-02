@@ -1,0 +1,20 @@
+/* Este arquivo css está 
+externo a qualquer página HTML*/ 
+
+p {
+    color: blue;
+    font-family: Verdana;
+    font-size: 5pt;
+}
+
+#topzera{
+    color: green;
+}
+
+.sm{
+    font-family: arial-black;
+}
+
+.fundoLoki{
+    background-color: hotpink;
+}
