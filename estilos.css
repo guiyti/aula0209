@@ -16,5 +16,9 @@ p {
 }
 
 .fundoLoki{
-    background-color: hotpink;
+    background-color: #CDDC39;
+    border: 4px dashed red;
+    border-top-style: solid;
+    border-top-color: blue;
+    /* box-shadow: 5px 10px; */
 }
